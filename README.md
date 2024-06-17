@@ -1,4 +1,4 @@
-# UNIR - Repositorio del código asociado a la aplicación
+# UNIR - Repositorio del código del TFG
 1. Export del Espacio de trabajo de APEX sobre el que se ha desarrollado la aplicación
    ### WS_AGSN_PRE.sql
 3. Diseño de la base de datos de la aplicación
